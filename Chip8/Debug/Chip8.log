@@ -1,0 +1,11 @@
+﻿  main.c
+D:\dev\c++\Projeto-2\Chip8\Chip8\main.c(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\dev\c++\Projeto-2\Chip8\Chip8\main.c(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\dev\c++\Projeto-2\Chip8\Chip8\main.c(8,1): warning C4026: function declared with formal parameter list
+D:\dev\c++\Projeto-2\Chip8\Chip8\main.c(10,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\dev\c++\Projeto-2\Chip8\Chip8\main.c(18,8): warning C4477: 'scanf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'const char **'
+D:\dev\c++\Projeto-2\Chip8\Chip8\main.c(37,22): warning C4047: 'function': 'const char *' differs in levels of indirection from 'const char *[256]'
+D:\dev\c++\Projeto-2\Chip8\Chip8\main.c(37,22): warning C4024: 'load_rom': different types for formal and actual parameter 2
+D:\dev\c++\Projeto-2\Chip8\Chip8\main.c(50,49): warning C4047: 'function': 'uint8_t *' differs in levels of indirection from 'uint8_t (*)[16]'
+D:\dev\c++\Projeto-2\Chip8\Chip8\main.c(50,49): warning C4024: 'input_context': different types for formal and actual parameter 2
+  Chip8.vcxproj -> D:\dev\c++\Projeto-2\Chip8\Debug\Chip8.exe
